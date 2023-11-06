@@ -1,0 +1,3 @@
+Albert esta realizando nuevamente este curso 
+para repasar todo lo referente a git y git hub
+ojala esta sea la mejor forma para interiorizar los conceptos. 
